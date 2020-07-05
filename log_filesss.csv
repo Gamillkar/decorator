@@ -1,0 +1,1 @@
+2020-07-05 17:21:33.710968,Function: log_file,"{'arg': ('4333',), 'kwarg': {'el': 'values kwarg'}}","{'result_foo': ('43334333', {'el': 'values kwarg'})}"
